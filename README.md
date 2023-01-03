@@ -1,5 +1,5 @@
 # Kaibou
-Tool to check Security configurations on a Windows PE file
+
 
 ![image](https://user-images.githubusercontent.com/55631460/210168822-30fe5514-e4a8-43b8-890d-1cc6c80e3206.png)
 
